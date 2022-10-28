@@ -9,4 +9,5 @@ Celem, jaki chciałabym osiągnąć jest zmiana obecnej ścieżki kariery. Moja 
 Biorąc udział w projekcie chciałabym zdobyć wiedzę praktyczną, poznać nowe narzędzia pracy i poczuć się jak tester oprogramowania.
 
 Pozdrawiam
-###Ewa
+
+Ewa
