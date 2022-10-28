@@ -1,6 +1,6 @@
 # Task 1
 ## Subtask 1
-8 :)
+8 :relaxed:
 ## Subtask 3
 Cześć mam na imię Ewa. Poprzez udział w challenge'u chciałabym zdobyć wiedzę praktyczną w obszarze testowania oprogramowania.
 
