@@ -1,1 +1,4 @@
-# challenge_portfolio_ewa
+# Task 1
+## Subtask 1
+8 :)
+## Subtask 3
