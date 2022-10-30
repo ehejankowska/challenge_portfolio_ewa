@@ -8,12 +8,12 @@ Celem, jaki chciałabym osiągnąć jest zmiana obecnej ścieżki kariery. Moja 
 
 Biorąc udział w projekcie chciałabym zdobyć wiedzę praktyczną, poznać nowe narzędzia pracy i poczuć się jak tester oprogramowania.
 
-Ewa
+**Ewa**
 
 ## Subtask 4
-1. Aplikacja Scouts służy do gromadzenia danych na temat zawodników piłki nożnej. Wybierając poszczególnych zawodników możemy dowiedzieć się podstawowych informacji, jak również prześledzić całą historię zawodową gracza (statystyki każdego meczu i komentarze trenera dotyczące gry zawodnika).
+**1.** Aplikacja Scouts służy do gromadzenia danych na temat zawodników piłki nożnej. Wybierając poszczególnych zawodników możemy dowiedzieć się podstawowych informacji, jak również prześledzić całą historię zawodową gracza (statystyki każdego meczu i komentarze trenera dotyczące gry zawodnika).
 
-2. Funkcjonalności aplikacji:
+**2. Funkcjonalności aplikacji:**
 - logowanie i wylogowywanie się z systemu
 - dodawanie nowych graczy,oraz edytowania istniejących,
 - wyszukiwanie graczy po: nazwisku, imieniu, wieku, pozycji, klubie,
@@ -23,11 +23,11 @@ Ewa
 - tworzenie i generowanie raportów z zakończonego meczu.
 Funkcjonalności rozmieszczone są w sposób intuicyjny, łatwo jest się odnaleźć i korzystać z możliwości aplikacji. Jednak dodałabym możliwość usuwania zawodników i zdublowanych raportów dotyczących jednego meczu. Również podczas przypadkowego kliknięcia "dodawanie zawodnika" brakuje mi możliwości anulowania tworzenia, które przeniosłoby na stronę główną.
 
-3. Intefejs aplikacji wg mnie jest czytelny i przyjazny dla użytkownika. Jednak na początku korzystania z aplikacji nie widziałam w jakiej aktualnie jestem zakładkce w panelu sterowania po lewej stronie. Proponowałabym bardziej wyróżnić aktywne miejsca, np. dodając tło.
+**3.** Intefejs aplikacji wg mnie jest czytelny i przyjazny dla użytkownika. Jednak na początku korzystania z aplikacji nie widziałam w jakiej aktualnie jestem zakładkce w panelu sterowania po lewej stronie. Proponowałabym bardziej wyróżnić aktywne miejsca, np. dodając tło.
 
-4. Cała aplikacja jest intuicyjna i nie miałam problemu z jej użytkowaniem.
+**4.** Cała aplikacja jest intuicyjna i nie miałam problemu z jej użytkowaniem.
 
-5. Zauważone błędy:
+**5. Zauważone błędy:**
 - Dodawanie gracza z niepoprawną datą urodzenia. Udało mi się dopisać gracza z rokiem urodzenia 2222,
 - Wpisując numer telefonu poszczególnej osobie, pole powinno się zapisać z określoną liczną znaków (cyfr). Udało mi się stworzyć gracza z niepoprawnym numerem telefonu (45 albo aaaa),
 - Dodawanie zagranego meczu z przyszła datą,
