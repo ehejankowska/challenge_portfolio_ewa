@@ -30,6 +30,8 @@ Funkcjonalności rozmieszczone są w sposób intuicyjny, łatwo jest się odnale
 **5. Zauważone błędy:**
 - Dodawanie gracza z niepoprawną datą urodzenia. Udało mi się dopisać gracza z rokiem urodzenia 2222,
 - Wpisując numer telefonu poszczególnej osobie, pole powinno się zapisać z określoną liczną znaków (cyfr). Udało mi się stworzyć gracza z niepoprawnym numerem telefonu (45 albo aaaa),
+- Dodawanie gracza gdzie imię i nazwisko są liczbami,
+- Brak liczby maksymalnej w rubryce waga i wzrost. Mozna zapisać zawodnika np. z waga 1000kg i wzrostam 999cm, 
 - Dodawanie zagranego meczu z przyszła datą,
 - Na stronie głównej pojawił się niezapisany mecz z linkiem do "wróc do raportu" link nigdzie mnie nie przekierowuje,
 - Korzystając z funkcji DevTools symulacja strony na aplikacji mobilej nie mieści się w widoku, chodzi mi o zakładki mecze i raporty (tabela),
