@@ -36,3 +36,22 @@ Funkcjonalności rozmieszczone są w sposób intuicyjny, łatwo jest się odnale
 - Na stronie głównej pojawił się niezapisany mecz z linkiem do "wróc do raportu" link nigdzie mnie nie przekierowuje,
 - Korzystając z funkcji DevTools symulacja strony na aplikacji mobilej nie mieści się w widoku, chodzi mi o zakładki mecze i raporty (tabela),
 - Rownież wyświetlając poszczególny raport meczowy, strona nie dostosowuje się do widoku (rozmiaru okna). 
+
+# Task 2
+## Subtask 1
+https://docs.google.com/spreadsheets/d/11IVNkmWtkZI0PyWzWdwt7uY_yAIlxN2BdMNs6Z2ZEmI/edit?usp=sharing
+
+## Subtask 2
+https://docs.google.com/spreadsheets/d/1h7BBBNdS-_T4SzHnjPNgtt3xWUbqvRg1ZlB0YLezT9o/edit?usp=sharing
+
+## Subtask 3
+**Why do we need to create test cases?**
+- Saves time - clearly defined test cases are easy to understand and execute,
+- We can show to customer what and how we test their application,
+- It helps to track requirements coverage,
+- It helps to organize testing process, 
+- Tests can be reused,
+- Generating reports will show where are the bugs. 
+
+## Subtask 4
+https://docs.google.com/spreadsheets/d/1MnkKUemvSz4HJIMoRN5mTW9Nw2OH-SHxQLAXtMV328k/edit?usp=sharing
