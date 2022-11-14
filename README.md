@@ -55,3 +55,17 @@ https://docs.google.com/spreadsheets/d/1h7BBBNdS-_T4SzHnjPNgtt3xWUbqvRg1ZlB0YLez
 
 ## Subtask 4
 https://docs.google.com/spreadsheets/d/1MnkKUemvSz4HJIMoRN5mTW9Nw2OH-SHxQLAXtMV328k/edit?usp=sharing
+
+# Task 3
+## Subtask 1
+https://docs.google.com/spreadsheets/d/10gdl50oZpwceB-JW3zsPWWwesYxsOzGFfuiRL5KjkyE/edit?usp=sharing
+
+## Subtask 2
+https://docs.google.com/spreadsheets/d/1eaPKHkEJrmAe5cpbfCA_1MqJVpXiTVWAOVlN1BEcjpw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1LQ56jNwAgqIhYVW0KvP9ipeDQXpTIC9KP1h9vNdGqf8/edit?usp=sharing
+
+## Subtask 3
+https://docs.google.com/spreadsheets/d/1ZMhS3ej9wpYugHz0QhR9lM0z6565D9iLvbUapqS_ORU/edit?usp=sharing
+
+## Subtask 4
+https://docs.google.com/spreadsheets/d/1pdSv3SQzVC4Ip8_DdRkGXnXhB96RkGfMW_I2BYSRVtI/edit?usp=sharing
