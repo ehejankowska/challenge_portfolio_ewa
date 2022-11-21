@@ -69,3 +69,29 @@ https://docs.google.com/spreadsheets/d/1ZMhS3ej9wpYugHz0QhR9lM0z6565D9iLvbUapqS_
 
 ## Subtask 4
 https://docs.google.com/spreadsheets/d/1pdSv3SQzVC4Ip8_DdRkGXnXhB96RkGfMW_I2BYSRVtI/edit?usp=sharing
+
+# Task 4
+## Subtask 2
+https://docs.google.com/spreadsheets/d/1dOhZ_X7zLpg6ueB3T_XHr54N6hf-HEKc564OQSNNBYU/edit?usp=sharing
+
+## Subtask 3
+**1. Do czego służy aplikacja? Jaki jest jej cel?**
+
+Aplikacja “Focusly” służy do relaksacji, której celem jest znalezienie wewnętrzego “Zen”. 🧘‍♀️  🧘‍♀️  🧘‍♀️ 
+
+**2. Kto ma być użytkowniekiem końcowym aplikacji?**
+
+Aplikacja przeznaczona jest zarówno dla kobiet, mężczyzn jak również dla dzieci.👶 👨‍🦰 👩‍🦰 👵 🧓 
+
+**3. Czy według ciebie aplikacja jest user friendly?**
+
+Aplikacja jest przyjazna użytkownikowi, łatwa i szybka w nauce. Nazwy kategorii są intuciyjne.
+
+**4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?**
+- Odtwarzanie dzwięków powinno być możliwe jako playlista, a nie tylko pojedyncze utwory,
+- Cała aplikacja powinna zostać przetłumaczona na język angielski, powinna istnieć spójność pomiędzy wersją polską, a angielską,
+- Zmiana języka aplikacji nie powinna kasować ustawień osobistych,
+- Responsywność powinna być lepsza.
+
+## Subtask 4
+https://ehejankowska.atlassian.net/jira/software/projects/CHAL/boards/2/backlog
