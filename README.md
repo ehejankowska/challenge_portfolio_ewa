@@ -95,3 +95,11 @@ Aplikacja jest przyjazna użytkownikowi, łatwa i szybka w nauce. Nazwy kategori
 
 ## Subtask 4
 https://ehejankowska.atlassian.net/jira/software/projects/CHAL/boards/2/backlog
+
+# Task 5
+## Subtask 3
+**1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
+
+SELECT * FROM actors ORDER BY surname
+
+![image](https://user-images.githubusercontent.com/116520344/204107409-f49f09af-a349-48f6-a8a3-2f44800c4261.png)
