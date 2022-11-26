@@ -139,3 +139,9 @@ SELECT * FROM customers WHERE customer_id=2 OR customer_id=4 OR customer_id=6;
 SELECT * FROM customers WHERE customer_id IN (1,3,5);  
 
 ![image](https://user-images.githubusercontent.com/116520344/204108496-a629d67a-e2c3-4eb2-8bfc-3c41594cbe18.png)
+
+**8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
+
+SELECT * FROM actors WHERE name LIKE 'An%';
+
+![image](https://user-images.githubusercontent.com/116520344/204108634-8801aba5-8e53-4bf7-b267-aa2983b8b74d.png)
