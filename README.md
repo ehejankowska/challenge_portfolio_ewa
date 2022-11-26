@@ -100,6 +100,12 @@ https://ehejankowska.atlassian.net/jira/software/projects/CHAL/boards/2/backlog
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
-SELECT * FROM actors ORDER BY surname
+SELECT * FROM actors ORDER BY surname;
 
 ![image](https://user-images.githubusercontent.com/116520344/204107409-f49f09af-a349-48f6-a8a3-2f44800c4261.png)
+
+**2. Wyświetl film, który powstał w 2019 roku.**
+
+SELECT * FROM movies WHERE year_of_production = 2019;
+
+![image](https://user-images.githubusercontent.com/116520344/204107711-1c69ba55-0b35-4917-b78d-7442336b3475.png)
