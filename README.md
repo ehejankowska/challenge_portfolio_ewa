@@ -97,6 +97,20 @@ Aplikacja jest przyjazna użytkownikowi, łatwa i szybka w nauce. Nazwy kategori
 https://ehejankowska.atlassian.net/jira/software/projects/CHAL/boards/2/backlog
 
 # Task 5
+## Subtask 1
+1. SELECT * FROM nazwa_tabeli
+2. SELECT nazwa_kolumny FROM nazwa_tabeli
+3. SELECT nazwa_kolumny AS własna_nazwa_kolumny FROM nazwa_tabeli
+4. SELECT * FROM nazwa_tabeli ORDER BY nazwa_kolumny
+5. SELECT * FROM nazwa_tabeli ORDER BY nazwa_kolumny DESC
+6. SELECT nazwa_kolumny FROM nazwa_tabeli WHERE nazwa_kolumny = wartość
+7. SELECT nazwa_kolumny FROM nazwa_tabeli WHERE nazwa_kolumny = wartość OR nazwa_kolumny > wartość OR nazwa_kolumny < wartość
+8. SELECT * FROM nazwa_tabeli WHERE nazwa_kolumny BETWEEN wartość AND wartość
+9. SELECT * FROM nazwa_tabeli WHERE nazwa_kolumny IN (wartość, wartość, wartość)
+10. SELECT * FROM nazwa_tabeli WHERE nazwa_kolumny LIKE 'Dr%'
+11. SELECT * FROM nazwa_tabeli WHERE nazwa_kolumny IS NULL
+12. SELECT * FROM nazwa_tabeli WHERE nazwa_kolumny IS NOT NULL
+
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
