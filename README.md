@@ -275,3 +275,6 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonim)
 VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
 ![pyt 20](https://user-images.githubusercontent.com/116520344/205502083-c27421e6-bc7d-47aa-b12a-f81fc3630f38.png)
+
+## Subtask 2
+Test ECRU - sylabus ISTQB 10/15 🙈
